@@ -1,4 +1,30 @@
 {
-  "processed_ids": [],
-  "items": {}
+  "items": {
+    "1@66@2@14@52@4@DRV_Audio_RTK_SZ_RTK_W11_64_V6097001_20240801R.zip": {
+      "filename": "DRV_Audio_RTK_SZ_RTK_W11_64_V6097001_20240801R.zip",
+      "release_date": "2024-08-02",
+      "tag": "audio-20240802-drv-audio-rtk-sz-rtk-w11-64-v6097001-20240801r-id1-66-2-14-52-4-drv-audio-rtk-sz-rtk-w11-64-v6097001-20240801r-zip",
+      "title": "Realtek Audio Driver V6.0.9700.1 for Windows 11 64-bit.",
+      "version": "6.0.9700.1"
+    },
+    "1@66@2@14@52@4@DRV_Audio_RTK_SZ_RTK_W11_64_V6098881_20251024R.zip": {
+      "filename": "DRV_Audio_RTK_SZ_RTK_W11_64_V6098881_20251024R.zip",
+      "release_date": "2025-12-18",
+      "tag": "audio-20251218-drv-audio-rtk-sz-rtk-w11-64-v6098881-20251024r-id1-66-2-14-52-4-drv-audio-rtk-sz-rtk-w11-64-v6098881-20251024r-zip",
+      "title": "Realtek Audio Driver v6.0.9888.1 for Windows 11 64-bit.",
+      "version": "6.0.9888.1"
+    },
+    "1@66@2@14@52@4@Realtek_Audio_Driver_V6.0.9350.1_WIN10_WIN11_64-bit.zip": {
+      "filename": "Realtek_Audio_Driver_V6.0.9350.1_WIN10_WIN11_64-bit.zip",
+      "release_date": "2023-05-29",
+      "tag": "audio-20230529-realtek-audio-driver-v6-0-9350-1-win10-win11-64-bit-id1-66-2-14-52-4-realtek-audio-driver-v6-0-9350-1-win10-win11-64-bit-zip",
+      "title": "Realtek Audio Driver V6.0.9350.1 for Windows 10 64-bit & Win11 64-bit---(WHQL).",
+      "version": "6.0.9350.1"
+    }
+  },
+  "processed_ids": [
+    "1@66@2@14@52@4@DRV_Audio_RTK_SZ_RTK_W11_64_V6097001_20240801R.zip",
+    "1@66@2@14@52@4@DRV_Audio_RTK_SZ_RTK_W11_64_V6098881_20251024R.zip",
+    "1@66@2@14@52@4@Realtek_Audio_Driver_V6.0.9350.1_WIN10_WIN11_64-bit.zip"
+  ]
 }
